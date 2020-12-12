@@ -1,0 +1,1 @@
+OpenPLC Editor files are actually directories. In OpenPLC Editor you would open an entire directory (i.e. Conveyor_AtoB)
