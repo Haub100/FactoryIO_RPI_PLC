@@ -6,7 +6,7 @@ Turn a Raspberry Pi into a PLC to control Factory I/O processes running on a sep
 - OpenPLC Runtime installed on the pi: [link](https://www.openplcproject.com/runtime/raspberry-pi/).
 - The ability to connect the pi to a computer running Factory I/O (i.e. CAT 5 Ethernet cable).
 - FactoryIO installed on a separate computer. You can use the trial version or paid version.
-- (Optional) A monitor to access the GUI of the raspberry pi. *Otherwise you can us SSH for pi configuration*
+- (Optional) A monitor to access the GUI of the raspberry pi. *Otherwise you can use SSH for pi configuration*
 
 ## Initial Setup
 1. (Optional) Clone this respository to your computer.
